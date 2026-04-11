@@ -2,7 +2,13 @@
 
 A comprehensive data analysis and visualization project for Zepto's quick commerce operations using PySpark and Streamlit.
 
-## 📊 Project Overview
+## � Quick Links
+
+- **📦 GitHub Repository:** https://github.com/gsv3245-cpu/Zepto-Analysis
+- **🎨 Live Dashboard:** [Deploy to Streamlit Cloud](#deployment) (See deployment section below)
+- **📖 Full Documentation:** See [Running the Dashboard](#-getting-started) section
+
+## �📊 Project Overview
 
 This project analyzes 120,000+ orders from Zepto's quick commerce platform across 5 major Indian cities (Mumbai, Delhi, Bangalore, Hyderabad, Chennai) over a 15-day period in January 2025.
 
@@ -87,6 +93,33 @@ streamlit run zepto_dashboard_app.py
 !streamlit run zepto_dashboard_app.py &
 # Then use ngrok for public URL
 ```
+
+## 🌐 Deployment
+
+### Deploy to Streamlit Cloud (Recommended)
+
+The easiest way to deploy this dashboard for free:
+
+1. **Create Streamlit Cloud Account**
+   - Go to https://share.streamlit.io/
+   - Sign up with your GitHub account
+
+2. **Deploy Your Repository**
+   - Click "New app" 
+   - Select GitHub repo: `https://github.com/gsv3245-cpu/Zepto-Analysis`
+   - Set main file: `zepto_dashboard_app.py`
+   - Click "Deploy"
+
+3. **Your Dashboard Will Be Live At**
+   ```
+   https://share.streamlit.io/gsv3245-cpu/zepto-analysis
+   ```
+
+**Note:** First deployment takes 2-3 minutes. The dashboard will auto-update whenever you push to GitHub!
+
+### Alternative Deployment Options
+
+**Heroku / Railway / AWS / GCP:** See [Advanced Usage](#-advanced-usage) section
 
 ## 📊 Key Findings
 
