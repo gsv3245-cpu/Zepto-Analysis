@@ -4,9 +4,8 @@ A comprehensive data analysis and visualization project for Zepto's quick commer
 
 ## � Quick Links
 
-- **📦 GitHub Repository:** https://github.com/gsv3245-cpu/Zepto-Analysis
 - **🎨 Live Dashboard:** https://zepto-analysis-g2mxwsxnubgszauqlgsmp4.streamlit.app/
-- **📖 Full Documentation:** See [Running the Dashboard](#-getting-started) section
+- **📖 Documentation:** See sections below
 
 ## �📊 Project Overview
 
