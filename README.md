@@ -5,7 +5,7 @@ A comprehensive data analysis and visualization project for Zepto's quick commer
 ## � Quick Links
 
 - **📦 GitHub Repository:** https://github.com/gsv3245-cpu/Zepto-Analysis
-- **🎨 Live Dashboard:** [Deploy to Streamlit Cloud](#deployment) (See deployment section below)
+- **🎨 Live Dashboard:** https://zepto-analysis-g2mxwsxnubgszauqlgsmp4.streamlit.app/
 - **📖 Full Documentation:** See [Running the Dashboard](#-getting-started) section
 
 ## �📊 Project Overview
@@ -110,12 +110,12 @@ The easiest way to deploy this dashboard for free:
    - Set main file: `zepto_dashboard_app.py`
    - Click "Deploy"
 
-3. **Your Dashboard Will Be Live At**
+3. **Your Dashboard Is Now Live**
    ```
-   https://share.streamlit.io/gsv3245-cpu/zepto-analysis
+   https://zepto-analysis-g2mxwsxnubgszauqlgsmp4.streamlit.app/
    ```
 
-**Note:** First deployment takes 2-3 minutes. The dashboard will auto-update whenever you push to GitHub!
+**Note:** The dashboard auto-updates whenever you push changes to GitHub!
 
 ### Alternative Deployment Options
 
